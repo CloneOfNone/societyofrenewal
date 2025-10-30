@@ -11,10 +11,12 @@ This book serves as the comprehensive guide to understanding why and how the Soc
 The book is organized into several parts that build upon each other:
 
 ### Part A: Declaration (Why Now)
+
 - **[Outline](outline.md)** - Development status and structure overview
 - **[Part A: Declaration of Interdependence](Part%20A.md)** - Core principles including the Dignity Constraint
 
 ### Planned Parts
+
 - **Part B: The Science of Renewal** - Evidence base for why the system works
 - **Part C: Architecture** - Detailed technical implementation
 - **Part D: Safeguards & Defense** - Safety and protection mechanisms
@@ -25,10 +27,13 @@ The book is organized into several parts that build upon each other:
 ## Key Concepts
 
 ### The Dignity Constraint
+
 The fundamental principle that no policy, process, tool, or tactic may demean, dehumanize, or erase any conscious being. This is the first boundary on power and the last refuge against its misuse.
 
 ### Declaration of Interdependence
+
 A manifesto that diagnoses the problems with current systems and states the core commitments of the Society of Renewal, including:
+
 - Dignity as the only stable constraint on power
 - Education as the primary tool for preventing harm
 - Material security as cognitive infrastructure
@@ -36,7 +41,9 @@ A manifesto that diagnoses the problems with current systems and states the core
 - Truth as verifiable and privacy as honored
 
 ### Scientific Foundation
+
 The book provides evidence for:
+
 - How scarcity affects human cognition and behavior
 - Why education prevents more harm than punishment
 - How restorative justice works in practice
@@ -46,6 +53,7 @@ The book provides evidence for:
 ## Current Status
 
 This is a **work in progress**. The current version includes:
+
 - Complete outline and structure
 - Part A with the Declaration of Interdependence and Dignity Constraint
 - Detailed planning for remaining sections
@@ -63,4 +71,4 @@ This is a **work in progress**. The current version includes:
 
 ---
 
-*This book provides the intellectual foundation for a society built on dignity, education, and renewal rather than punishment and coercion.*
+_This book provides the intellectual foundation for a society built on dignity, education, and renewal rather than punishment and coercion._

@@ -148,7 +148,6 @@ The Society of Renewal uses three layered mechanisms: reputation, memory, and re
 
 1. **Reputation**
    Each citizen, human or machine, maintains a public social integrity record. This is not a credit score, not a ranking, not a currency. It is a transparent log of:
-
    - Contributions to collective well-being,
    - Instances of conflict or harm,
    - Participation in resolution.
@@ -162,7 +161,6 @@ The Society of Renewal uses three layered mechanisms: reputation, memory, and re
 
 3. **Repair**
    When someone causes harm, the system’s first mandate is to:
-
    - Make the wounded party whole (as defined by them, within dignity),
    - Understand root cause,
    - Reintegrate the person who caused harm into social function with higher clarity, not permanent stigma.
@@ -218,7 +216,6 @@ The Society of Renewal replaces that with an economy of purpose:
 
 1. Essential needs are guaranteed by design (Freedom Floor).
 2. Beyond that floor, recognition and resources are directed to efforts that:
-
    - Increase collective resilience,
    - Advance shared understanding,
    - Repair damage (social, ecological, psychological),

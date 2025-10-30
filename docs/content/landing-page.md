@@ -1,8 +1,9 @@
 ## Navigation
 
-- [Charter of Renewal](docs/charter/) - The foundational constitutional document
-- [Founding Book](docs/founding-book/) - Philosophical and scientific foundation
+- [Charter of Renewal](../charter/) - The foundational constitutional document
+- [Founding Book](../founding-book/) - Philosophical and scientific foundation
 - [Project Outline](outline.md) - Overall project structure
+- [Whitepaper v0.6.0](https://github.com/CloneOfNone/essentia/blob/main/docs/whitepaper.md) - Protocol deep dive
 
 ---
 
@@ -25,4 +26,4 @@
 
 _(beneath it, in faint smaller text)_
 
-> [Read the Charter →] [Explore the Founding Document →]
+> [Read the Charter →] [Explore the Founding Document →] [Whitepaper v0.6.0 →]

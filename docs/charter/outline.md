@@ -2,7 +2,7 @@
 
 - [Charter Home](README.md) - Overview and navigation
 - [Part I: The Scientific Basis of Renewal](Part%20I.md)
-- [Part II: Operational Articles](Part%20II.md) 
+- [Part II: Operational Articles](Part%20II.md)
 - [Part III: Safeguards, Restoration & Peacekeeping](Part%20III.md)
 - [Part IV: Open Membership, Federation & Invitation](Part%20IV.md)
 - [Founding Book](../founding-book/) - Philosophical foundation

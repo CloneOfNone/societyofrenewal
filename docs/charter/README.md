@@ -16,12 +16,14 @@ The Charter is organized into four main parts:
 This is a **draft version** of the Charter. The current implementation includes Parts I-IV, with additional sections (Parts V-XI) planned for future development.
 
 ### What's Complete
+
 - **Part I** – Principles and Dignity Constraint
 - **Part II** – Operational Articles (Identity, Platform, Governance, UBI, Education)
 - **Part III** – Safeguards, Restoration & Peacekeeping
 - **Part IV** – Open Membership, Federation & Invitation
 
 ### What's Still Needed
+
 - **Part V** – Economy & Treasury
 - **Part VI** – Data, Privacy & Tech Ethics
 - **Part VII** – Health, Care & Accessibility
@@ -34,15 +36,19 @@ This is a **draft version** of the Charter. The current implementation includes 
 ## Key Principles
 
 ### The Dignity Constraint
+
 No policy, process, tool, or tactic may demean, dehumanize, or erase any conscious being. This is the fundamental boundary on all power and authority.
 
 ### Education as Governance
+
 Rather than using punishment and coercion, the Society of Renewal uses education, understanding, and restorative processes to maintain social order and address harm.
 
 ### Universal Basic Income
+
 UBI provides a "Freedom Floor" - guaranteed access to basic needs that removes the desperation that often leads to harmful behavior.
 
 ### Restorative Justice
+
 When harm occurs, the focus is on understanding root causes, making victims whole, and reintegrating those who caused harm through education and support.
 
 ## Navigation
@@ -61,4 +67,4 @@ When harm occurs, the focus is on understanding root causes, making victims whol
 
 ---
 
-*This Charter is a living document that evolves through the Refactoring Cycle, ensuring continuous improvement while maintaining the core principles of dignity and renewal.*
+_This Charter is a living document that evolves through the Refactoring Cycle, ensuring continuous improvement while maintaining the core principles of dignity and renewal._
