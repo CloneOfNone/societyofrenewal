@@ -1,3 +1,11 @@
+## Navigation
+
+- [Charter of Renewal](docs/charter/) - The foundational constitutional document
+- [Founding Book](docs/founding-book/) - Philosophical and scientific foundation
+- [Project Outline](outline.md) - Overall project structure
+
+---
+
 **Title:**
 
 > **Join the Society of Renewal**

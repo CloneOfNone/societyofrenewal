@@ -1,6 +1,14 @@
+## Documentation Navigation
+
+- **[Charter of Renewal](docs/charter/)** - The foundational constitutional document
+- **[Founding Book](docs/founding-book/)** - Philosophical and scientific foundation
+- **[Landing Page](landing-page.md)** - Public-facing introduction
+
+---
+
 ### I. **Phase One: The Digital Charter (Web Platform)**
 
-This is the seed — the **Charter of Renewal Wiki**, but far more than a wiki. It’s a living, participatory constitution built on Essentia’s principles of **identity, transparency, and purpose-driven contribution**.
+This is the seed — the **Charter of Renewal Wiki**, but far more than a wiki. It's a living, participatory constitution built on Essentia's principles of **identity, transparency, and purpose-driven contribution**.
 
 #### Core systems:
 
